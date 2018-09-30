@@ -1,4 +1,4 @@
-package Week1SM1;
+package SM1_Week1;
 
 /**
  * @author glennmcgookin
