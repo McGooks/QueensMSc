@@ -1,3 +1,11 @@
+package Week1SM1;
+
+/**
+ * @author glennmcgookin
+ * @version %I%, %G%
+ * @since 1.0
+ */
+
 public class P1c {
     public static void main(String[] args) {
         System.out.println("Hello World!\tI am alive.");
