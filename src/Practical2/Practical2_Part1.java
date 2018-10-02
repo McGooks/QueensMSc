@@ -7,8 +7,7 @@ import java.util.Scanner;
  * @version         1.0
  * @author          Glenn McGookin
  * Created on:      02/10/2018
- * Description:     A program designed to print out a number detials about a stringm based on the user input via the
- *                  scanner
+ * Description:     A program designed to print out a number detials about a string based on the user input
  */
 
 public class Practical2_Part1 {
