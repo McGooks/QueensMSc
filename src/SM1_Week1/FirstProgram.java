@@ -1,6 +1,6 @@
 package SM1_Week1;
 
-/**
+/*
  * @file        FirstProgram
  * @version     %I%, %G%
  * @since       1.0
@@ -10,7 +10,7 @@ package SM1_Week1;
  */
 
 
-public class FirstProgram {
+public class FirstProgram { //This is the class
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
