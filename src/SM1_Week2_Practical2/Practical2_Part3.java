@@ -1,4 +1,4 @@
-package Practical2;
+package SM1_Week2_Practical2;
 
 import java.util.Scanner;
 

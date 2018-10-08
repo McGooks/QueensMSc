@@ -1,8 +1,8 @@
-package Practical2;
+package SM1_Week2_Practical2;
 
 import java.util.Scanner;
 
-public class Practical_Part4 {
+public class Practical2_Part4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Please enter a decimal point number in the format xx.xxxx eg 12.3456: ");
