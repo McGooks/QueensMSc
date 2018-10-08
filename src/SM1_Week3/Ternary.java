@@ -16,6 +16,7 @@ public class Ternary {
         Scanner input = new Scanner(System.in);
         System.out.print("Please input your age: ");
         int age = input.nextInt();
+        input.close(); //Close Scanner
 
         System.out.println(age >=18 ? "You can vote" : "You cannot vote");
 

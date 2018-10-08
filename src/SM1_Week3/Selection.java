@@ -16,6 +16,7 @@ public class Selection {
         Scanner input = new Scanner(System.in);
         System.out.print("Please input your age: ");
         int age = input.nextInt();
+        input.close(); //Close Scanner
 
         if(age >= 18) {
             System.out.println("You can vote");
