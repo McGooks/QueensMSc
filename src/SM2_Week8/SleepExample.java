@@ -1,5 +1,4 @@
 package SM2_Week8;
-
 import java.util.Random;
 
 public class SleepExample {
