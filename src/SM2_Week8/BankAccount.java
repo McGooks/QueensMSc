@@ -11,6 +11,7 @@ public class BankAccount {
         someComplicatedTransactionProcess();
         reportBalanceError(tempBalance);
         tempBalance = (int) (tempBalance + value);
+
         this.balance = tempBalance;
     }
 
